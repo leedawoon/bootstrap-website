@@ -16,13 +16,14 @@ Web Framework인 Bootstrap을 기반으로 HTML, CSS, JavaScript를 활용하여
 
 - #### Index
 
-  - <img width=40 align=left src="https://user-images.githubusercontent.com/76501345/125026166-fabc8900-e0be-11eb-9ae7-046b4f1c4c5a.png">
-  - Favicon - Epik High의 로고에서 'E'만 추출하여 제작
-  - Navigation Bar - 메뉴 About us, News, Album, Music & SNS (FB, IG, Twitter) 연결
+  - <img width=30 align=left src="https://user-images.githubusercontent.com/76501345/125026166-fabc8900-e0be-11eb-9ae7-046b4f1c4c5a.png"> - Epik High의 로고에서 'E' 만 추출하여 제작한 Favicon
+
+  - Navigation Bar - 메뉴 About us, News, Album, Music
+  - SNS (FB, IG, Twitter) 연결
 
 - #### About us : 멤버별 상세 정보 (Message 전송 페이지 연결)
 
-  - Table
+  - Tablo
   - Mithra
   - DJ Tukutz
 
@@ -133,9 +134,9 @@ JavaScript를 사용한 동적 페이지로, 웹과 모바일 페이지 형식�
 
 ## 📚 Tech Stack
 
-![VSCODE](https://img.shields.io/badge/VSCode-v1.57.1-blue?style=plastic&logo=visual-studio-code)![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.2-7952B3?style=plastic&&logo=bootstrap&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-v1.57.1-blue?style=plastic&logo=visual-studio-code) ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.2-7952B3?style=plastic&&logo=bootstrap&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5)![CSS3](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3&logoColor=blue) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript)
 
 <br>
 
